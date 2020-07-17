@@ -5,7 +5,7 @@ This is the second line.
 
 ## Introduction
 
-aa
+This example is to show different parts of the Git repository and various commands using a web project.
 
 ## Purpose
 
